@@ -84,20 +84,20 @@ FOREIGN KEY (account_id) REFERENCES Account(id);
 
 --Insert--
 INSERT INTO Account(username, password, email, phone_number, account_role)
-	VALUES('client', '123456', 'client@gmail.com','0931044624', 0),
-	('admin', '123456', 'admin@gmail.com','0931044624', 1);
+	VALUES('client', '123456', 'client@gmail.com','0931044546', 0),
+	('admin', '123456', 'admin@gmail.com','0931044546', 1);
 
 
 INSERT INTO Person(subject_name, person_type, account_id)
-	VALUES('Math', 0, 6),
-		  ('Math', 1, 7);
+	VALUES('Math', 0, 1),
+		  ('Math', 1, 2);
 
 INSERT INTO Information(first_name, last_name, birthday, address, person_id)
-	VALUES('Alanst', 'Ly', '5/21/2013 9:45:48 AM', 'Can Kho', 5),
-	('Alanst', 'Ly', '5/21/2013 9:45:48 AM', 'Can Kho', 6)
+	VALUES('Student', 'Ly', '5/21/2013 9:45:48 AM', 'Can Kho', 1),
+	('Teacher', 'Ly', '5/21/2013 9:45:48 AM', 'Can Kho', 2)
 
 INSERT INTO DayOff(approve_status, date_from, date_to, reason, approve_person, person_id)
-	VALUES(0, '5/21/2013 9:45:48 AM', '5/21/2013 9:45:48 AM', 'resole some private problem', 7, 6);
+	VALUES(0, '5/21/2013 9:45:48 AM', '5/21/2013 9:45:48 AM', 'I need visit my parent in Da Lat City', 2, 1);
 
 
 

@@ -39,10 +39,5 @@ namespace AbsentManagement.Areas.Admin.Controllers
             adminHomeService.updateApproveStatus(id);
             return RedirectToAction("Index");
         }
-
-        public ActionResult createAccount()
-        {
-            return View();
-        }
     }
 }

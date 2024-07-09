@@ -29,6 +29,8 @@ namespace AbsentManagement.Areas.Home.Controllers
             return View(informationDTO);
         }
 
+        [AdminAuthorize(Id = 6)]
+        [HttpPost]
         public ActionResult update(InformationDTO informationDTO)
         {
             bool isSuccess = informationService.update(informationDTO);

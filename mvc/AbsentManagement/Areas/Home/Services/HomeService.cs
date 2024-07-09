@@ -8,6 +8,7 @@ using AbsentManagement.Models;
 using System.Data.Entity.Migrations;
 using System;
 using System.Data.Entity;
+using AbsentManagement.Areas.Home.Data.Enums;
 
 namespace AbsentManagement.Areas.Home.Services
 {
@@ -51,7 +52,7 @@ namespace AbsentManagement.Areas.Home.Services
         public List<TeacherDTO> getAllTeacher()
         {
             List<TeacherDTO> teacherDTOs = new List<TeacherDTO>();
-            var select = dbConnection.People.Include(x => x.information).Where(x => x.person_type==1).ToList();
+            var select = dbConnection.People.Include(x => x.information).Where(x => x.person_type==PersonEnum.TEACHER).ToList();
             foreach (var item in select)
             {
                 TeacherDTO teacherDTO = new TeacherDTO();

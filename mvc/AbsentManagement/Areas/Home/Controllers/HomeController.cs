@@ -31,14 +31,13 @@ namespace AbsentManagement.Areas.Home.Controllers
         }
 
 
+        [AdminAuthorize(Id = 5)]
         [HttpPost]
         public ActionResult AbsentLog(AbsentLogDTO absentLogDTO)
         {
             string dateErrorMessage = homeService.validateDate(absentLogDTO.From, absentLogDTO.To);
             if (ModelState.IsValid&&dateErrorMessage.IsEmpty())
             {
-                //hard code to test
-                //AccountService.user_id
                 absentLogDTO.StudentId=userSessonDTO.userId;
                 homeService.addAbsentLog(absentLogDTO);
                 return RedirectToAction("Index");
@@ -48,6 +47,7 @@ namespace AbsentManagement.Areas.Home.Controllers
             return View("Index", absentLogDTO);
         }
 
+        [AdminAuthorize(Id = 5)]
         public ActionResult update(long id)
         {
             AbsentLogDTO absentLogDTO = homeService.findById(id);
@@ -55,6 +55,7 @@ namespace AbsentManagement.Areas.Home.Controllers
             return View("Index", absentLogDTO);
         }
 
+        [AdminAuthorize(Id = 5)]
         public ActionResult remove(long id)
         {
             homeService.remove(id);
@@ -66,11 +67,7 @@ namespace AbsentManagement.Areas.Home.Controllers
         {
             ViewBag.AbsentLogs=homeService.findAbsentLog(userSessonDTO.userId, AbsentLogStatusEnum.PENDING);
             ViewBag.Teachers=homeService.getAllTeacher();
-
-            if (Session[Constant.AVATAR] ==null)
-            {
-                Session[Constant.AVATAR] = homeService.getAvatarUrl(userSessonDTO.userId);
-            }
+            if (Session[Constant.AVATAR] ==null) Session[Constant.AVATAR]=homeService.getAvatarUrl(userSessonDTO.userId);
         }
     }
 }

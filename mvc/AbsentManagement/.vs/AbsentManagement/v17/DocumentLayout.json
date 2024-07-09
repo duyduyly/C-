@@ -1,241 +1,241 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\",
+  "WorkspaceRootPath": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|d:\\work-space\\c#-workspace\\mock-project\\absentmanagement\\areas\\admin\\services\\adminhomeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\admin\\services\\adminhomeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\areas\\admin\\data\\paginationdto\\paginationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\admin\\data\\paginationdto\\paginationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\areas\\admin\\utils\\dateutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\admin\\utils\\dateutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\areas\\admin\\data\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\admin\\data\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\areas\\admin\\data\\dayoffdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\admin\\data\\dayoffdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\areas\\admin\\data\\request\\sortedrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\admin\\data\\request\\sortedrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\areas\\admin\\data\\request\\paginationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\admin\\data\\request\\paginationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\areas\\admin\\data\\request\\filterrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\admin\\data\\request\\filterrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\models\\entities\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:models\\entities\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\areas\\admin\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\admin\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\areas\\home\\data\\enums\\absentlogstatusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\home\\data\\enums\\absentlogstatusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\areas\\home\\data\\enums\\roleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\home\\data\\enums\\roleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\areas\\home\\data\\enums\\personenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\home\\data\\enums\\personenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\areas\\home\\services\\homeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\home\\services\\homeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\areas\\home\\services\\informationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\home\\services\\informationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\services\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:services\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\areas\\home\\views\\information\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\home\\views\\information\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\areas\\home\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\home\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\app_start\\adminauthorize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\app_start\\adminauthorize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:app_start\\adminauthorize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\areas\\admin\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\admin\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\areas\\home\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\home\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\models\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:models\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\models\\entities\\sysdiagram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:models\\entities\\sysdiagram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\areas\\home\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\home\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\models\\entities\\dayoff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:models\\entities\\dayoff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\areas\\home\\controllers\\informationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\areas\\home\\controllers\\informationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\home\\controllers\\informationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\areas\\home\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\areas\\home\\data\\enums\\absentlogstatusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\home\\data\\enums\\absentlogstatusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\areas\\home\\data\\enums\\roleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\home\\data\\enums\\roleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\areas\\home\\views\\information\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\home\\views\\information\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\areas\\home\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\home\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\constant\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:constant\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\areas\\home\\data\\dtos\\informationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\home\\data\\dtos\\informationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\areas\\home\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\home\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\areas\\home\\constant\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\home\\constant\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\areas\\home\\homearearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\areas\\home\\homearearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\home\\homearearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\models\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\areas\\home\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\home\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\areas\\home\\services\\homeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\home\\services\\homeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|d:\\work-space\\git\\c#\\c-sharp\\mvc\\absentmanagement\\areas\\admin\\services\\adminhomeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\admin\\services\\adminhomeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\areas\\admin\\data\\paginationdto\\paginationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\admin\\data\\paginationdto\\paginationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\areas\\admin\\utils\\dateutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\admin\\utils\\dateutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\areas\\admin\\data\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\admin\\data\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\areas\\admin\\data\\dayoffdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\admin\\data\\dayoffdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\areas\\admin\\data\\request\\sortedrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\admin\\data\\request\\sortedrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\areas\\admin\\data\\request\\paginationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\admin\\data\\request\\paginationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\areas\\admin\\data\\request\\filterrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\admin\\data\\request\\filterrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\models\\entities\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:models\\entities\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\areas\\admin\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\admin\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\areas\\home\\data\\enums\\personenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\home\\data\\enums\\personenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\areas\\home\\services\\informationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\home\\services\\informationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\services\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:services\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\areas\\home\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\home\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\areas\\admin\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\admin\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\models\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:models\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\models\\entities\\sysdiagram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:models\\entities\\sysdiagram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\areas\\home\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\home\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\models\\entities\\dayoff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:models\\entities\\dayoff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\constant\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:constant\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\areas\\home\\data\\dtos\\informationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\home\\data\\dtos\\informationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\areas\\home\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\home\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\areas\\home\\constant\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\home\\constant\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\models\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:models\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\models\\dtos\\usersessondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\models\\dtos\\usersessondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:models\\dtos\\usersessondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\models\\entities\\information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\models\\entities\\information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:models\\entities\\information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\models\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\models\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:models\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\app_start\\unityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\app_start\\unityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:app_start\\unityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\utils\\fileutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\utils\\fileutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:utils\\fileutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\views\\error\\permissionnotfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\views\\error\\permissionnotfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:views\\error\\permissionnotfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\areas\\home\\data\\mappers\\absentmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\areas\\home\\data\\mappers\\absentmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\home\\data\\mappers\\absentmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\utils\\hashutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\utils\\hashutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:utils\\hashutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\areas\\home\\data\\dtos\\absentlog\\teacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\areas\\home\\data\\dtos\\absentlog\\teacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\home\\data\\dtos\\absentlog\\teacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\areas\\home\\data\\dtos\\absentlog\\absentlogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\areas\\home\\data\\dtos\\absentlog\\absentlogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C94AE772-1347-45DA-BFC4-688F9019318F}|AbsentManagement.csproj|solutionrelative:areas\\home\\data\\dtos\\absentlog\\absentlogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -246,17 +246,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Admin\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Admin\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Areas\\Admin\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAArwCYAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-04T04:02:21.73Z",
               "IsPinned": true,
@@ -267,207 +267,94 @@
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "FilterRequest.cs",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Admin\\Data\\Request\\FilterRequest.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Data\\Request\\FilterRequest.cs",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Admin\\Data\\Request\\FilterRequest.cs",
-              "RelativeToolTip": "Areas\\Admin\\Data\\Request\\FilterRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAcAAAA",
+              "DocumentIndex": 2,
+              "Title": "InformationController.cs",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Home\\Controllers\\InformationController.cs",
+              "RelativeDocumentMoniker": "Areas\\Home\\Controllers\\InformationController.cs",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Home\\Controllers\\InformationController.cs",
+              "RelativeToolTip": "Areas\\Home\\Controllers\\InformationController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T09:02:38.986Z",
+              "WhenOpened": "2024-07-05T01:46:16.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Home\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Areas\\Home\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Home\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Areas\\Home\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAADwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T04:02:39.271Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "PaginationRequest.cs",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Admin\\Data\\Request\\PaginationRequest.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Data\\Request\\PaginationRequest.cs",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Admin\\Data\\Request\\PaginationRequest.cs",
-              "RelativeToolTip": "Areas\\Admin\\Data\\Request\\PaginationRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T09:03:02.134Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SortedRequest.cs",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Admin\\Data\\Request\\SortedRequest.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Data\\Request\\SortedRequest.cs",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Admin\\Data\\Request\\SortedRequest.cs",
-              "RelativeToolTip": "Areas\\Admin\\Data\\Request\\SortedRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T09:07:14.753Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Home\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Home\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Home\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Home\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T04:03:02.905Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "DayOffDTO.cs",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Admin\\Data\\DayOffDTO.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Data\\DayOffDTO.cs",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Admin\\Data\\DayOffDTO.cs",
-              "RelativeToolTip": "Areas\\Admin\\Data\\DayOffDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T03:28:40.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RoleDTO.cs",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Admin\\Data\\RoleDTO.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Data\\RoleDTO.cs",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Admin\\Data\\RoleDTO.cs",
-              "RelativeToolTip": "Areas\\Admin\\Data\\RoleDTO.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAwAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T07:42:16.37Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AdminHomeService.cs",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Admin\\Services\\AdminHomeService.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Services\\AdminHomeService.cs",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Admin\\Services\\AdminHomeService.cs",
-              "RelativeToolTip": "Areas\\Admin\\Services\\AdminHomeService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T08:59:22.947Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DateUtils.cs",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Admin\\Utils\\DateUtils.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Utils\\DateUtils.cs",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Admin\\Utils\\DateUtils.cs",
-              "RelativeToolTip": "Areas\\Admin\\Utils\\DateUtils.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T03:32:53.268Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAGAAAA",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Home\\Views\\Information\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Home\\Views\\Information\\Index.cshtml",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Home\\Views\\Information\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Home\\Views\\Information\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-08T07:49:37.318Z",
+              "WhenOpened": "2024-07-05T01:46:28.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeAreaRegistration.cs",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Home\\HomeAreaRegistration.cs",
+              "RelativeDocumentMoniker": "Areas\\Home\\HomeAreaRegistration.cs",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Home\\HomeAreaRegistration.cs",
+              "RelativeToolTip": "Areas\\Home\\HomeAreaRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T04:57:47.395Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PaginationDTO.cs",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Admin\\Data\\PaginationDTO\\PaginationDTO.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Data\\PaginationDTO\\PaginationDTO.cs",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Admin\\Data\\PaginationDTO\\PaginationDTO.cs",
-              "RelativeToolTip": "Areas\\Admin\\Data\\PaginationDTO\\PaginationDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Title": "AdminAuthorize.cs",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\App_Start\\AdminAuthorize.cs",
+              "RelativeDocumentMoniker": "App_Start\\AdminAuthorize.cs",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\App_Start\\AdminAuthorize.cs",
+              "RelativeToolTip": "App_Start\\AdminAuthorize.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T09:00:39.63Z",
+              "WhenOpened": "2024-07-04T06:41:59.913Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DbConnection.cs",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Models\\Entities\\DbConnection.cs",
-              "RelativeDocumentMoniker": "Models\\Entities\\DbConnection.cs",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Models\\Entities\\DbConnection.cs",
-              "RelativeToolTip": "Models\\Entities\\DbConnection.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T04:00:08.573Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AdminAreaRegistration.cs",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Admin\\AdminAreaRegistration.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\AdminAreaRegistration.cs",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Admin\\AdminAreaRegistration.cs",
-              "RelativeToolTip": "Areas\\Admin\\AdminAreaRegistration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T07:59:27.739Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "RoleService.cs",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Admin\\RoleService.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\RoleService.cs",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Admin\\RoleService.cs",
-              "RelativeToolTip": "Areas\\Admin\\RoleService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T07:41:50.318Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAgwBIAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-04T07:59:25.817Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-05T06:59:38.923Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AbsentLogStatusEnum.cs",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Home\\Data\\Enums\\AbsentLogStatusEnum.cs",
-              "RelativeDocumentMoniker": "Areas\\Home\\Data\\Enums\\AbsentLogStatusEnum.cs",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Home\\Data\\Enums\\AbsentLogStatusEnum.cs",
-              "RelativeToolTip": "Areas\\Home\\Data\\Enums\\AbsentLogStatusEnum.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T04:10:22.977Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 4,
               "Title": "RoleEnum.cs",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Home\\Data\\Enums\\RoleEnum.cs",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Home\\Data\\Enums\\RoleEnum.cs",
               "RelativeDocumentMoniker": "Areas\\Home\\Data\\Enums\\RoleEnum.cs",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Home\\Data\\Enums\\RoleEnum.cs",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Home\\Data\\Enums\\RoleEnum.cs",
               "RelativeToolTip": "Areas\\Home\\Data\\Enums\\RoleEnum.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -476,36 +363,220 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "PersonEnum.cs",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Home\\Data\\Enums\\PersonEnum.cs",
-              "RelativeDocumentMoniker": "Areas\\Home\\Data\\Enums\\PersonEnum.cs",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Home\\Data\\Enums\\PersonEnum.cs",
-              "RelativeToolTip": "Areas\\Home\\Data\\Enums\\PersonEnum.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "DocumentIndex": 3,
+              "Title": "AbsentLogStatusEnum.cs",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Home\\Data\\Enums\\AbsentLogStatusEnum.cs",
+              "RelativeDocumentMoniker": "Areas\\Home\\Data\\Enums\\AbsentLogStatusEnum.cs",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Home\\Data\\Enums\\AbsentLogStatusEnum.cs",
+              "RelativeToolTip": "Areas\\Home\\Data\\Enums\\AbsentLogStatusEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T04:10:35.92Z",
+              "WhenOpened": "2024-07-04T04:10:22.977Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 9,
               "Title": "HomeService.cs",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Home\\Services\\HomeService.cs",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Home\\Services\\HomeService.cs",
               "RelativeDocumentMoniker": "Areas\\Home\\Services\\HomeService.cs",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Home\\Services\\HomeService.cs",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Home\\Services\\HomeService.cs",
               "RelativeToolTip": "Areas\\Home\\Services\\HomeService.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAgwCIAAABOAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCgAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T04:03:47.837Z"
+              "WhenOpened": "2024-07-04T04:03:47.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminHomeService.cs",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Admin\\Services\\AdminHomeService.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Services\\AdminHomeService.cs",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Admin\\Services\\AdminHomeService.cs",
+              "RelativeToolTip": "Areas\\Admin\\Services\\AdminHomeService.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAuwGUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T08:59:22.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PaginationDTO.cs",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Admin\\Data\\PaginationDTO\\PaginationDTO.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Data\\PaginationDTO\\PaginationDTO.cs",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Admin\\Data\\PaginationDTO\\PaginationDTO.cs",
+              "RelativeToolTip": "Areas\\Admin\\Data\\PaginationDTO\\PaginationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:00:39.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T07:49:37.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DateUtils.cs",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Admin\\Utils\\DateUtils.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Utils\\DateUtils.cs",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Admin\\Utils\\DateUtils.cs",
+              "RelativeToolTip": "Areas\\Admin\\Utils\\DateUtils.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T03:32:53.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RoleDTO.cs",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Admin\\Data\\RoleDTO.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Data\\RoleDTO.cs",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Admin\\Data\\RoleDTO.cs",
+              "RelativeToolTip": "Areas\\Admin\\Data\\RoleDTO.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T07:42:16.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DayOffDTO.cs",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Admin\\Data\\DayOffDTO.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Data\\DayOffDTO.cs",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Admin\\Data\\DayOffDTO.cs",
+              "RelativeToolTip": "Areas\\Admin\\Data\\DayOffDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T03:28:40.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SortedRequest.cs",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Admin\\Data\\Request\\SortedRequest.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Data\\Request\\SortedRequest.cs",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Admin\\Data\\Request\\SortedRequest.cs",
+              "RelativeToolTip": "Areas\\Admin\\Data\\Request\\SortedRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:07:14.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PaginationRequest.cs",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Admin\\Data\\Request\\PaginationRequest.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Data\\Request\\PaginationRequest.cs",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Admin\\Data\\Request\\PaginationRequest.cs",
+              "RelativeToolTip": "Areas\\Admin\\Data\\Request\\PaginationRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:03:02.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FilterRequest.cs",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Admin\\Data\\Request\\FilterRequest.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Data\\Request\\FilterRequest.cs",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Admin\\Data\\Request\\FilterRequest.cs",
+              "RelativeToolTip": "Areas\\Admin\\Data\\Request\\FilterRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:02:38.986Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
+              "Title": "DbConnection.cs",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Models\\Entities\\DbConnection.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\DbConnection.cs",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Models\\Entities\\DbConnection.cs",
+              "RelativeToolTip": "Models\\Entities\\DbConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T04:00:08.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AdminAreaRegistration.cs",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\AdminAreaRegistration.cs",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "RelativeToolTip": "Areas\\Admin\\AdminAreaRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T07:59:27.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Admin\\RoleService.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\RoleService.cs",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Admin\\RoleService.cs",
+              "RelativeToolTip": "Areas\\Admin\\RoleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T07:41:50.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAgwBIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T07:59:25.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T06:59:38.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PersonEnum.cs",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Home\\Data\\Enums\\PersonEnum.cs",
+              "RelativeDocumentMoniker": "Areas\\Home\\Data\\Enums\\PersonEnum.cs",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Home\\Data\\Enums\\PersonEnum.cs",
+              "RelativeToolTip": "Areas\\Home\\Data\\Enums\\PersonEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T04:10:35.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "InformationService.cs",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Home\\Services\\InformationService.cs",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Home\\Services\\InformationService.cs",
               "RelativeDocumentMoniker": "Areas\\Home\\Services\\InformationService.cs",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Home\\Services\\InformationService.cs",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Home\\Services\\InformationService.cs",
               "RelativeToolTip": "Areas\\Home\\Services\\InformationService.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAADUAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -513,11 +584,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 26,
               "Title": "ILoginService.cs",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Services\\ILoginService.cs",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Services\\ILoginService.cs",
               "RelativeDocumentMoniker": "Services\\ILoginService.cs",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Services\\ILoginService.cs",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Services\\ILoginService.cs",
               "RelativeToolTip": "Services\\ILoginService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -525,11 +596,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 27,
               "Title": "LoginService.cs",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Services\\LoginService.cs",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Services\\LoginService.cs",
               "RelativeDocumentMoniker": "Services\\LoginService.cs",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Services\\LoginService.cs",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Services\\LoginService.cs",
               "RelativeToolTip": "Services\\LoginService.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAewBMAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -537,23 +608,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Home\\Views\\Information\\Index.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Home\\Views\\Information\\Index.cshtml",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Home\\Views\\Information\\Index.cshtml",
-              "RelativeToolTip": "Areas\\Home\\Views\\Information\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-05T01:46:28.293Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 28,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Home\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Home\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Areas\\Home\\Views\\_ViewStart.cshtml",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Home\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Home\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "Areas\\Home\\Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -561,23 +620,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "AdminAuthorize.cs",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\App_Start\\AdminAuthorize.cs",
-              "RelativeDocumentMoniker": "App_Start\\AdminAuthorize.cs",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\App_Start\\AdminAuthorize.cs",
-              "RelativeToolTip": "App_Start\\AdminAuthorize.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAUwCcAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T06:41:59.913Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
               "Title": "web.config",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Admin\\Views\\web.config",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Admin\\Views\\web.config",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\web.config",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Admin\\Views\\web.config",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Admin\\Views\\web.config",
               "RelativeToolTip": "Areas\\Admin\\Views\\web.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -585,24 +632,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Home\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Home\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Home\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Areas\\Home\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-04T04:03:02.905Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -611,11 +645,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "Web.config",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Views\\Web.config",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Views\\Web.config",
               "RelativeDocumentMoniker": "Views\\Web.config",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Views\\Web.config",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Views\\Web.config",
               "RelativeToolTip": "Views\\Web.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -623,11 +657,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "sysdiagram.cs",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Models\\Entities\\sysdiagram.cs",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Models\\Entities\\sysdiagram.cs",
               "RelativeDocumentMoniker": "Models\\Entities\\sysdiagram.cs",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Models\\Entities\\sysdiagram.cs",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Models\\Entities\\sysdiagram.cs",
               "RelativeToolTip": "Models\\Entities\\sysdiagram.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -635,11 +669,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "Person.cs",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Models\\Entities\\Person.cs",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Models\\Entities\\Person.cs",
               "RelativeDocumentMoniker": "Models\\Entities\\Person.cs",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Models\\Entities\\Person.cs",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Models\\Entities\\Person.cs",
               "RelativeToolTip": "Models\\Entities\\Person.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -647,11 +681,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "web.config",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Home\\Views\\web.config",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Home\\Views\\web.config",
               "RelativeDocumentMoniker": "Areas\\Home\\Views\\web.config",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Home\\Views\\web.config",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Home\\Views\\web.config",
               "RelativeToolTip": "Areas\\Home\\Views\\web.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -659,36 +693,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "InformationController.cs",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Home\\Controllers\\InformationController.cs",
-              "RelativeDocumentMoniker": "Areas\\Home\\Controllers\\InformationController.cs",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Home\\Controllers\\InformationController.cs",
-              "RelativeToolTip": "Areas\\Home\\Controllers\\InformationController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCEAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T01:46:16.037Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Home\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Areas\\Home\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Home\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Areas\\Home\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAwwEcAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T04:02:39.271Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 35,
               "Title": "DayOff.cs",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Models\\Entities\\DayOff.cs",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Models\\Entities\\DayOff.cs",
               "RelativeDocumentMoniker": "Models\\Entities\\DayOff.cs",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Models\\Entities\\DayOff.cs",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Models\\Entities\\DayOff.cs",
               "RelativeToolTip": "Models\\Entities\\DayOff.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAqwCMAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -696,11 +705,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "Constant.cs",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Constant\\Constant.cs",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Constant\\Constant.cs",
               "RelativeDocumentMoniker": "Constant\\Constant.cs",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Constant\\Constant.cs",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Constant\\Constant.cs",
               "RelativeToolTip": "Constant\\Constant.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -708,11 +717,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "LoginController.cs",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Controllers\\LoginController.cs",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Controllers\\LoginController.cs",
               "RelativeToolTip": "Controllers\\LoginController.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAowCYAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -720,11 +729,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "ErrorController.cs",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Controllers\\ErrorController.cs",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Controllers\\ErrorController.cs",
               "RelativeDocumentMoniker": "Controllers\\ErrorController.cs",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Controllers\\ErrorController.cs",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Controllers\\ErrorController.cs",
               "RelativeToolTip": "Controllers\\ErrorController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -732,11 +741,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "InformationDTO.cs",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Home\\Data\\DTOs\\InformationDTO.cs",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Home\\Data\\DTOs\\InformationDTO.cs",
               "RelativeDocumentMoniker": "Areas\\Home\\Data\\DTOs\\InformationDTO.cs",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Home\\Data\\DTOs\\InformationDTO.cs",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Home\\Data\\DTOs\\InformationDTO.cs",
               "RelativeToolTip": "Areas\\Home\\Data\\DTOs\\InformationDTO.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAAwBAAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -744,24 +753,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Home\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Home\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Areas\\Home\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Home\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Home\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Areas\\Home\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAACEAAAAAAAAAAIBZwDIAAAAmAAAA",
+              "ViewState": "AQIAABwAAAAAAAAAAGBnwDIAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-04T04:03:05.908Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "Constant.cs",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Home\\Constant\\Constant.cs",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Home\\Constant\\Constant.cs",
               "RelativeDocumentMoniker": "Areas\\Home\\Constant\\Constant.cs",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Home\\Constant\\Constant.cs",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Home\\Constant\\Constant.cs",
               "RelativeToolTip": "Areas\\Home\\Constant\\Constant.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -769,23 +778,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "HomeAreaRegistration.cs",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Home\\HomeAreaRegistration.cs",
-              "RelativeDocumentMoniker": "Areas\\Home\\HomeAreaRegistration.cs",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Home\\HomeAreaRegistration.cs",
-              "RelativeToolTip": "Areas\\Home\\HomeAreaRegistration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T04:57:47.395Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 42,
               "Title": "LoginDTO.cs",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Models\\DTOs\\LoginDTO.cs",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Models\\DTOs\\LoginDTO.cs",
               "RelativeDocumentMoniker": "Models\\DTOs\\LoginDTO.cs",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Models\\DTOs\\LoginDTO.cs",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Models\\DTOs\\LoginDTO.cs",
               "RelativeToolTip": "Models\\DTOs\\LoginDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -795,9 +792,9 @@
               "$type": "Document",
               "DocumentIndex": 43,
               "Title": "UserSessonDTO.cs",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Models\\DTOs\\UserSessonDTO.cs",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Models\\DTOs\\UserSessonDTO.cs",
               "RelativeDocumentMoniker": "Models\\DTOs\\UserSessonDTO.cs",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Models\\DTOs\\UserSessonDTO.cs",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Models\\DTOs\\UserSessonDTO.cs",
               "RelativeToolTip": "Models\\DTOs\\UserSessonDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -807,9 +804,9 @@
               "$type": "Document",
               "DocumentIndex": 44,
               "Title": "information.cs",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Models\\Entities\\information.cs",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Models\\Entities\\information.cs",
               "RelativeDocumentMoniker": "Models\\Entities\\information.cs",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Models\\Entities\\information.cs",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Models\\Entities\\information.cs",
               "RelativeToolTip": "Models\\Entities\\information.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -819,9 +816,9 @@
               "$type": "Document",
               "DocumentIndex": 45,
               "Title": "Account.cs",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Models\\Entities\\Account.cs",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Models\\Entities\\Account.cs",
               "RelativeDocumentMoniker": "Models\\Entities\\Account.cs",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Models\\Entities\\Account.cs",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Models\\Entities\\Account.cs",
               "RelativeToolTip": "Models\\Entities\\Account.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -831,9 +828,9 @@
               "$type": "Document",
               "DocumentIndex": 47,
               "Title": "RouteConfig.cs",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\App_Start\\RouteConfig.cs",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\App_Start\\RouteConfig.cs",
               "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\App_Start\\RouteConfig.cs",
               "RelativeToolTip": "App_Start\\RouteConfig.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -843,9 +840,9 @@
               "$type": "Document",
               "DocumentIndex": 46,
               "Title": "UnityConfig.cs",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\App_Start\\UnityConfig.cs",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\App_Start\\UnityConfig.cs",
               "RelativeDocumentMoniker": "App_Start\\UnityConfig.cs",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\App_Start\\UnityConfig.cs",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\App_Start\\UnityConfig.cs",
               "RelativeToolTip": "App_Start\\UnityConfig.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -855,9 +852,9 @@
               "$type": "Document",
               "DocumentIndex": 48,
               "Title": "FilterConfig.cs",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\App_Start\\FilterConfig.cs",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\App_Start\\FilterConfig.cs",
               "RelativeDocumentMoniker": "App_Start\\FilterConfig.cs",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\App_Start\\FilterConfig.cs",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\App_Start\\FilterConfig.cs",
               "RelativeToolTip": "App_Start\\FilterConfig.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -867,9 +864,9 @@
               "$type": "Document",
               "DocumentIndex": 49,
               "Title": "FileUtils.cs",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Utils\\FileUtils.cs",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Utils\\FileUtils.cs",
               "RelativeDocumentMoniker": "Utils\\FileUtils.cs",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Utils\\FileUtils.cs",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Utils\\FileUtils.cs",
               "RelativeToolTip": "Utils\\FileUtils.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAACcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -879,9 +876,9 @@
               "$type": "Document",
               "DocumentIndex": 50,
               "Title": "PermissionNotFound.cshtml",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Views\\Error\\PermissionNotFound.cshtml",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Views\\Error\\PermissionNotFound.cshtml",
               "RelativeDocumentMoniker": "Views\\Error\\PermissionNotFound.cshtml",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Views\\Error\\PermissionNotFound.cshtml",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Views\\Error\\PermissionNotFound.cshtml",
               "RelativeToolTip": "Views\\Error\\PermissionNotFound.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -891,9 +888,9 @@
               "$type": "Document",
               "DocumentIndex": 51,
               "Title": "AbsentMapper.cs",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Home\\Data\\Mappers\\AbsentMapper.cs",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Home\\Data\\Mappers\\AbsentMapper.cs",
               "RelativeDocumentMoniker": "Areas\\Home\\Data\\Mappers\\AbsentMapper.cs",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Home\\Data\\Mappers\\AbsentMapper.cs",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Home\\Data\\Mappers\\AbsentMapper.cs",
               "RelativeToolTip": "Areas\\Home\\Data\\Mappers\\AbsentMapper.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -903,9 +900,9 @@
               "$type": "Document",
               "DocumentIndex": 52,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAACBjwCUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -916,9 +913,9 @@
               "$type": "Document",
               "DocumentIndex": 53,
               "Title": "Error.cshtml",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Views\\Shared\\Error.cshtml",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Views\\Shared\\Error.cshtml",
               "RelativeToolTip": "Views\\Shared\\Error.cshtml",
               "ViewState": "AQIAAA0AAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -928,9 +925,9 @@
               "$type": "Document",
               "DocumentIndex": 54,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Views\\Login\\Index.cshtml",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Views\\Login\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Login\\Index.cshtml",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Views\\Login\\Index.cshtml",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Views\\Login\\Index.cshtml",
               "RelativeToolTip": "Views\\Login\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -941,9 +938,9 @@
               "$type": "Document",
               "DocumentIndex": 55,
               "Title": "HashUtils.cs",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Utils\\HashUtils.cs",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Utils\\HashUtils.cs",
               "RelativeDocumentMoniker": "Utils\\HashUtils.cs",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Utils\\HashUtils.cs",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Utils\\HashUtils.cs",
               "RelativeToolTip": "Utils\\HashUtils.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -953,9 +950,9 @@
               "$type": "Document",
               "DocumentIndex": 56,
               "Title": "BundleConfig.cs",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\App_Start\\BundleConfig.cs",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\App_Start\\BundleConfig.cs",
               "RelativeDocumentMoniker": "App_Start\\BundleConfig.cs",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\App_Start\\BundleConfig.cs",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\App_Start\\BundleConfig.cs",
               "RelativeToolTip": "App_Start\\BundleConfig.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -965,9 +962,9 @@
               "$type": "Document",
               "DocumentIndex": 57,
               "Title": "TeacherDTO.cs",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Home\\Data\\DTOs\\AbsentLog\\TeacherDTO.cs",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Home\\Data\\DTOs\\AbsentLog\\TeacherDTO.cs",
               "RelativeDocumentMoniker": "Areas\\Home\\Data\\DTOs\\AbsentLog\\TeacherDTO.cs",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Home\\Data\\DTOs\\AbsentLog\\TeacherDTO.cs",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Home\\Data\\DTOs\\AbsentLog\\TeacherDTO.cs",
               "RelativeToolTip": "Areas\\Home\\Data\\DTOs\\AbsentLog\\TeacherDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -977,9 +974,9 @@
               "$type": "Document",
               "DocumentIndex": 58,
               "Title": "AbsentLogDTO.cs",
-              "DocumentMoniker": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Home\\Data\\DTOs\\AbsentLog\\AbsentLogDTO.cs",
+              "DocumentMoniker": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Home\\Data\\DTOs\\AbsentLog\\AbsentLogDTO.cs",
               "RelativeDocumentMoniker": "Areas\\Home\\Data\\DTOs\\AbsentLog\\AbsentLogDTO.cs",
-              "ToolTip": "D:\\work-space\\C#-workspace\\mock-project\\AbsentManagement\\Areas\\Home\\Data\\DTOs\\AbsentLog\\AbsentLogDTO.cs",
+              "ToolTip": "D:\\work-space\\Git\\C#\\C-Sharp\\mvc\\AbsentManagement\\Areas\\Home\\Data\\DTOs\\AbsentLog\\AbsentLogDTO.cs",
               "RelativeToolTip": "Areas\\Home\\Data\\DTOs\\AbsentLog\\AbsentLogDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

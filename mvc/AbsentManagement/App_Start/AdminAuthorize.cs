@@ -16,7 +16,11 @@ namespace AbsentManagement.App_Start
             (new RoleDTO(id: 1,name: "Display admin",userrole: RoleEnum.ADMIN)),
             (new RoleDTO(id: 2,name: "Approve Absent",userrole: RoleEnum.ADMIN)),
             (new RoleDTO(id: 3,name: "Display Home Index",userrole: RoleEnum.USER)),
-            (new RoleDTO(id: 4,name: "Display Information Index",userrole: RoleEnum.USER))
+            (new RoleDTO(id: 4,name: "Display Information Index",userrole: RoleEnum.USER)),
+           (new RoleDTO(id: 5,name: "Submit Update Remove off study day",userrole: RoleEnum.USER)),
+           (new RoleDTO(id: 6,name: "Update Information of User",userrole: RoleEnum.USER))
+
+
        };
         public int Id { get; set;}
         public override void OnAuthorization(AuthorizationContext filterContext)
