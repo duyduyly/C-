@@ -1,0 +1,36 @@
+﻿@model AbsentManagement.Models.DTOs.LoginDTO
+
+
+<main>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <h2></h2>
+            </div>
+            <div class="col-md-6 rounded">
+
+                <div class="container">
+                    <div class="form-container">
+                        <h2>Login</h2>
+                        <br />
+                        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                        @using (Html.BeginForm("check", "Login", FormMethod.Post))
+                        {
+                            @Html.AntiForgeryToken()
+                            <div class="form-floating">
+                                <input type="text" class="form-control" name="Username" id="username" placeholder="username">
+                                <label for="username">Username</label>
+                            </div>
+                            <div class="form-floating">
+                                <input type="password" class="form-control" name="Password" id="password" placeholder="password">
+                                <label for="password">Password</label>
+                            </div>
+                            <button type="submit" class="btn btn-dark w-100">Login</button>
+                        }
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</main>

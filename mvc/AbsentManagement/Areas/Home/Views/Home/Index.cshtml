@@ -1,0 +1,106 @@
+﻿@model AbsentManagement.Areas.Home.Data.DTOs.AbsentLog.AbsentLogDTO
+
+@{
+    var teacherList = @ViewBag.Teachers;
+    var now = DateTime.Now.ToString("yyyy-MM-ddTHH:mm");
+    var from = @Model.From!=DateTime.MinValue ? @Model.From.ToString("yyyy-MM-ddTHH:mm") : now;
+    var to = @Model.To!=DateTime.MinValue ? @Model.To.ToString("yyyy-MM-ddTHH:mm") : now;
+}
+<main>
+    <div class="container row">
+        <! -- table -->
+        <div class="col-sm-8 ">
+            <table class="table border">
+                <thead>
+                    <tr>
+                        <th scope="col">From</th>
+                        <th scope="col">To</th>
+                        <th scope="col">Teacher</th>
+                        <th scope="col">Status</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @{
+                        foreach (var absentLog in @ViewBag.AbsentLogs)
+                        {
+                            <tr>
+                                <td>@absentLog.From</td>
+                                <td>@absentLog.To</td>
+                                <td>
+                                    @absentLog.TeacherName
+                                </td>
+                                <td>@absentLog.Status</td>
+                                <td><a class=" btn btn-info" href="~/student/update?id=@absentLog.Id">update</a></td>
+                                <td>
+                                    <a class=" btn btn-danger" href="~/student/remove?id=@absentLog.Id"
+                                       id="btn-remove">remove</a>
+                                </td>
+                            </tr>
+                        }
+                    }
+                </tbody>
+            </table>
+        </div>
+
+        <div class="border rounded col-sm-4 container-fluid ">
+            @using (Html.BeginForm("AbsentLog", "Home", "AbsentLogDTO", FormMethod.Post))
+            {
+                @Html.AntiForgeryToken()
+                @Html.HiddenFor(model => model.Id)
+
+                <div class="form-horizontal">
+                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                    <div class="form-group row">
+                        <div class="col-sm-6">
+                            <label for="From" class="form-label">From:</label>
+                            <input type="datetime-local" class="form-control w-100" id="From" name="From"
+                                   value="@from" />
+                        </div>
+                        <div class="col-sm-6">
+                            <label for="To" class="form-label">To:</label>
+                            <input type="datetime-local" class="form-control" id="To" name="To" value="@to" />
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="control-label col-md-2">Teacher: </label>
+                        <div class="col-md-12" name="TeacherId">
+                            <select class="form-control" name="TeacherId" title="teacher select">
+                                @{
+                                    foreach (var teacher in @ViewBag.Teachers)
+                                    {
+                                        if (@Model.TeacherId==teacher.Id)
+                                        {
+                                            <option value="@teacher.Id" selected="selected">@teacher.Name</option>
+                                        }
+                                        else
+                                        {
+                                            <option value="@teacher.Id">@teacher.Name</option>
+                                        }
+                                    }
+                                }
+                            </select>
+
+                            @Html.ValidationMessageFor(model => model.TeacherId, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="control-label col-md-2">Reason: </label>
+                        <div class="col-md-12">
+                            <textarea class="form-control" name="Reason">@Model.Reason</textarea>
+                            @Html.ValidationMessageFor(model => model.Reason, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+                    <br />
+                    <div class="form-group">
+                        <div class="col-md-offset-2 col-md-10">
+                            <input type="submit" value="Create" id="submit" class="btn btn-primary" />
+                        </div>
+                    </div>
+                    <br />
+                </div>
+            }
+        </div>
+    </div>
+</main>

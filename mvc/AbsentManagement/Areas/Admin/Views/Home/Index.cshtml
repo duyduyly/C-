@@ -1,0 +1,66 @@
+﻿@{ 
+    var sort = "SortField="+@ViewBag.Filter.SortField+"&"+"SortType="+@ViewBag.Filter.SortType;
+    var sortType = "SortType="+(((string)@ViewBag.Filter.SortType).Equals("asc") ? "desc" : "asc");
+    var search = "StudentName="+@ViewBag.Filter.StudentName;
+    var page = "PageNumber=" + @ViewBag.Filter.PageIndex + "&" + "PageSize=" + ViewBag.Filter.PageSize;
+
+    var pageSize = "PageSize="+ViewBag.Filter.PageSize;
+    int totalPage = @ViewBag.Filter.TotalPage;
+    int pageIndex = ((int) @ViewBag.Filter.PageIndex);
+    var previous = "PageIndex="+(pageIndex > 1 ? pageIndex -1: pageIndex);
+    var next = "PageIndex="+(pageIndex >= totalPage ? pageIndex : pageIndex+1);
+}
+<main>
+    <form action="~/Admin/Home?@sort&@page" method="get">
+        <div class="form-group">
+            <div class="input-group mb-3">
+                <button class="btn btn-success" type="submit" id="button-addon1">Search</button>
+                <input type="text" name="StudentName" class="form-control" placeholder="Student Last Name" aria-label="Example text with button addon" aria-describedby="button-addon1">
+            </div>
+        </div>
+    </form>
+    <table class="table border rounded">
+        <thead>
+            <tr>
+                <th scope="col">Student_name</th>
+                <th scope="col">Form-to</th>
+                <th scope="col">Reason</th>
+                <th scope="col"> </th>
+                <th scope="col"><a href="~/Admin/Home/?SortField=status&@sortType&@search&@page">status</a></th>
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                foreach (AbsentManagement.Areas.Admin.Data.DayOffDTO dayOffDTO in @ViewBag.dayoffs)
+                {
+                        <tr>
+                            <td>@dayOffDTO.StudentName</td>
+                            <td>@dayOffDTO.FromTo</td>
+                            <td>@dayOffDTO.Reason</td>
+                            <td>@dayOffDTO.Status</td>
+                            @{
+                                if (!@dayOffDTO.Status.Equals("APPROVED"))
+                                {
+                                    <td>
+                                        <a class="btn btn-info" href="~/admin/home/approve?id=@dayOffDTO.Id">Approve</a>
+                                    </td>
+                                }
+                            }
+                        </tr>
+                }
+            }
+        </tbody>
+    </table>
+    <nav aria-label="Page navigation example">
+        <ul class="pagination">
+            <li class="page-item"><a class="page-link" href="~/admin/Home?@previous&@pageSize&@sort&@search">Previous</a></li>
+            @{ for (int i = 1; i<=@totalPage; i++)
+                {
+                    <li class="page-item"><a class="page-link" href="~/admin/Home?PageIndex=@i&@pageSize&@sort&@search">@i</a></li>
+                }
+            }
+            <li class="page-item"><a class="page-link" href="~/admin/Home?@next&@pageSize&@sort&@search">Next</a></li>
+        </ul>
+    </nav>
+</main>
+

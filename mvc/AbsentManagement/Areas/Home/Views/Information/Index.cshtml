@@ -1,0 +1,60 @@
+﻿@model AbsentManagement.Areas.Home.Data.DTOs.InformationDTO
+@{
+    var birthday = @Model.Birthday!=DateTime.MinValue ? @Model.Birthday.ToString("yyyy-MM-dd") : "";
+}
+
+<main>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <h2>Information:</h2>
+            </div>
+            <div class="col-md-6 border rounded">
+                <div class="container">
+                    <div class="form-container">
+                        @{
+                            if (@ViewBag.isSuccess!= null && @ViewBag.isSuccess)
+                            {
+                                <label class="text-success">Update Information Success</label>
+                            }
+                        }
+                        @using (Html.BeginForm("Update", "Information", FormMethod.Post, new { enctype = "multipart/form-data" }))
+                        {
+                            @Html.AntiForgeryToken()
+
+                            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+
+                            @Html.HiddenFor(model => model.Id)
+
+                            <div class="form-floating">
+                                <input type="file" class="form-control" id="avatar" name="avatar" placeholder="Avatar" accept="image/png, image/jpeg">
+                                <label for="avatar">Avatar</label>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6 form-floating">
+                                    <input type="text" class="form-control" name="FirstName" id="FirstName" value="@Model.FirstName" placeholder="First Name">
+                                    <label for="FirstName">First Name</label>
+                                </div>
+                                <div class="col-md-6 form-floating">
+                                    <input type="text" class="form-control" name="LastName" id="LastName" value="@Model.LastName" placeholder="Last Name">
+                                    <label for="LastName">Last Name</label>
+                                </div>
+                            </div>
+                            <div class="form-floating">
+                                <input type="date" class="form-control" name="BirthDay" id="BirthDay" value="@birthday" placeholder="Birthday">
+                                <label for="BirthDay">Birthday</label>
+                            </div>
+                            <div class="form-floating">
+                                <input type="text" class="form-control" name="Adress" id="Adress" value="@Model.Address" placeholder="Address">
+                                <label for="Adress">Address</label>
+                            </div>
+                            <button type="submit" class="btn btn-dark w-100">Update</button>
+                        }
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</main>
